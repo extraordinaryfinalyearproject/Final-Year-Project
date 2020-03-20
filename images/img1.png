@@ -1,0 +1,1679 @@
+
+<!doctype html>
+<html class="no-js" lang="">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>Accra Metropolitan Assembly</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="manifest" href="site.webmanifest">
+        <link rel="apple-touch-icon" href="icon.png">
+        <!-- Place favicon.ico in the root directory -->
+
+        <!-- Google fonts -->
+        <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,300italic,300|Roboto:400,700,100,100italic,300italic,300' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:700,400,300' rel='stylesheet' type='text/css'>
+<link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,700" rel="stylesheet">
+
+        <!-- Bootstrap css -->
+        <link rel="stylesheet" href="_/css/jquery-ui.min.css">
+        <link rel="stylesheet" href="_/css/bootstrap.css">
+
+        <!-- Fontawesome -->
+        <link rel="stylesheet" href="_/css/fontawesome.css">
+        
+        <!-- Owl Carousel -->
+        <link rel="stylesheet" href="_/css/owl.carousel.css">
+        <link rel="stylesheet" href="_/css/owl.theme.default.css">
+        <link rel="stylesheet" href="_/css/owl.theme.green.css">
+
+        
+        <link rel="stylesheet" href="_/css/normalize.css">
+        <link rel="stylesheet" href="_/css/main.css">
+        <link rel="stylesheet" href="_/css/unite-gallery.css">
+        <!-- <link rel="stylesheet" href="_/css/ug-theme-slider.css"> -->
+        <link rel="stylesheet" href="_/skins/alexis/alexis.css">
+        <link rel="stylesheet" href="_/css/hover.css">
+        <link rel="stylesheet" href="_/css/imagehover.css">
+        <link rel="stylesheet" href="_/css/ama.css">
+    </head>
+    <body id="home" >
+        <div id="fb-root"></div>
+        <script>(function(d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.12';
+            fjs.parentNode.insertBefore(js, fjs);
+            }(document, 'script', 'facebook-jssdk'));
+        </script>
+        <!--[if lte IE 9]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+        <![endif]-->
+
+        <!-- Add your site or application content here -->
+        
+           
+        <!-- Header Area -->
+         <header class="header-area fixed-top ">
+        <section class="header-content">
+	<div class="container">
+			<div class="row">
+				<div class="col-md-3 col-6 col-sm-4 col-lg-3 logo-area">
+					<div class="logo-area-wrap">
+						<a href="#"><img src="img/ama-logo-1.png" id="thelogo" class="img-fluid"  alt="ama logo"></a>
+					</div>
+				</div>
+				<div class="col-md-4 col-4 col-sm-4 col-lg-3 locate d-flex align-items-center">
+					<div class="locate-wrap ">
+						<p><span><a href="tel:+233 302 665 951"><i class="fas fa-phone"></i> +233 (0) 302 665 951</a></span>
+						<span><a href="mailto:info@ama.gov.gh"><i class="fas fa-at"></i> info@ama.gov.gh</a></span>
+						<span><i class="fas fa-map-marker-alt"></i> GA-143-7447</span></p>
+					</div>
+				</div>
+
+				<div class="col-md-5 col-sm-12 col-lg-5 aux-menu">
+					<div class=" aux-menu-wrap">
+						<p><a href="doc/bye-laws.pdf" target="_blank">Bye-Laws</a> | <a href="news-page.php">News</a> <!-- | <a href="#">City Directory</a> -->  | <a href="jobs.php">Jobs <!-- <sup><span class="badge badge-primary">1</span></sup> --></a> | <a href="contactus.php">Contact Us</a> | <a href="citizens-feedback.php">Citizens Feedback</a> </p>
+					</div>
+				</div>
+			</div><!-- End .row -->
+	</div> <!-- End .container -->
+</section><!--- End .header-content -->    <section class="navigation-area">
+	<div class="container">
+        <nav class="navbar navbar-expand-lg navbar-light bg-light position-relative">
+             <button class="navbar-toggler " type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <a class="navbar-brand position-relative" href="http://www.ama.gov.gh">
+				<div class="logo">
+					<img src="img/ama-logo-favicon-80px.png" id="favicon" class="img-fluid" alt="AMA logo" width="40">
+				</div>
+			</a>
+         
+            <div class="the-navbar collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link" href="index.php">Home<span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle " href="sub-metros.php" id="navbarDropdown" role="button" data-toggle="dropdown"  aria-haspopup="true" aria-expanded="false">
+                           Sub-Metros 
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                                            <a class="dropdown-item" href="sub-metro-details.php?s=Mg==">Ablekuma South</a>
+                                                            <a class="dropdown-item" href="sub-metro-details.php?s=MQ==">Ashiedu Keteke</a>
+                                                            <a class="dropdown-item" href="sub-metro-details.php?s=NQ==">Okaikoi South</a>
+                                                        <!-- <a class="dropdown-item" href="#">Ablekuma Central</a>
+                            <a class="dropdown-item" href="#">Ashiedu Keteke</a>
+                            <a class="dropdown-item" href="#">Ayawaso Central</a>
+                            <a class="dropdown-item" href="#">Okai Koi South</a>
+                            <a class="dropdown-item" href="#">Osu Klotey</a> -->
+                        </div>
+                    </li>
+                
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="departments.php" id="navbarDropdown" role="button" data-toggle="dropdown"  aria-haspopup="true" aria-expanded="false">
+                        Departments
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                
+                                <a class="dropdown-item" href="department-details.php?d=Mg==">Central Administration</a>
+                                
+                                <a class="dropdown-item" href="department-details.php?d=OA==">Physical Planning</a>
+                                
+                                <a class="dropdown-item" href="department-details.php?d=Mw==">Works Department</a>
+                                
+                                <a class="dropdown-item" href="department-details.php?d=MTk=">Waste Management</a>
+                                
+                                <a class="dropdown-item" href="department-details.php?d=NQ==">Education, Youth & Sports</a>
+                                                       <!--  <a class="dropdown-item" href="#">Waste Management</a>
+                            <a class="dropdown-item" href="#">Development Planning</a>
+                            <a class="dropdown-item" href="#">Physical Planning</a>
+                            <a class="dropdown-item" href="#">Works</a>-->
+                            <a class="dropdown-item" href="departments.php">View All</a> 
+                        </div>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Services
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">  
+                            <!-- <a class="dropdown-item" href="#">GAMADA</a> -->
+                            <a class="dropdown-item" href="environmental-health-services.php">Environmental Health Services</a>
+                            <a class="dropdown-item" href="waste-management-services.php">Waste Management Services</a>
+                            <!-- <a class="dropdown-item" href="#">Liquid Waste Management</a>
+                            <a class="dropdown-item" href="#">Solid Waste Management</a> -->
+                            <!-- <a class="dropdown-item" href="environmental-health-services.php">Environmental Health Services</a> -->
+                            <!-- <a class="dropdown-item" href="#">Health Services</a> --> 
+                        </div>
+                        
+                    </li>
+
+                    <!-- <li class="nav-item">
+                        <a class="nav-link" href="#">Projects</a>
+                    </li> -->
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="projects.php" id="navbarDropdown" data-toggle="dropdown" role="button"  aria-haspopup="true" aria-expanded="false" >
+                            Projects</a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <a class="dropdown-item" href="investment-opportunities.php">Investment Opportunities</a>  
+                           <!--  <a class="dropdown-item" href="#">Infrastructural Projects</a>
+                            <a class="dropdown-item" href="#">PPP</a> -->
+                          
+                        </div>
+                    </li>
+
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="theassembly.php" id="navbarDropdown" data-toggle="dropdown" role="button"  aria-haspopup="true" aria-expanded="false" >
+                            The Assembly</a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                           
+                            <a class="dropdown-item" href="theassembly.php">About the Assembly</a>
+                            <a class="dropdown-item" href="themayor.php">Mayor of Accra</a>
+                            <a class="dropdown-item" href="thepresidingmember.php">Presiding Member</a>
+                            <!-- <a class="dropdown-item" href="#">Coordinating Director</a> --> 
+                            <a class="dropdown-item" href="theassemblymembers.php">Assembly Members</a>
+                            <a class="dropdown-item" href="themembersofparliament.php">Members of Parliament</a>
+                           
+                            <a class="dropdown-item" href="thehistory.php">The History</a>                         
+                       </div>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="documents-centre.php">Documents Centre</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="faqs.php">FAQs</a>
+                    </li>
+                    
+                </ul> <!-- End .navbar-nav -->
+            </div> <!-- End .the-navbar .collapse .navbar-collapse -->
+
+            <div class="navbar-locate clearfix d-none d-md-none">
+                <div class="navbar-locate-wrap float-right">
+                    <p>
+                        <span><a href="mailto:info@ama.gov.gh"><i class="fas fa-at"></i> info@ama.gov.gh</a></span>
+                        <span><i class="fas fa-map-marker-alt"></i> GA-143-7447</span>
+                        <!-- <span><i class="fas fa-phone"></i> +233 (0) 302 665 951</span> -->
+                    </p>
+                </div>
+            </div><!-- End .navbar-locate -->
+        </nav>
+    </div>
+</section></header> <!-- End .header-area -->
+        <!-- End of Header Area -->
+
+        <!-- Full-Width-Fade-Slider Area -->
+            <div class="preloader-bg">
+    <div class="preloader-icon"></div>
+</div>
+<section class="fade-slider-area">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="welcome-address">
+                    <div class="text-content">
+                        <h1>Welcome to Accra</h1>
+                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam cursus. 
+                            Morbi ut mi. Nullam enim leo, egestas id, 
+                            condimentum at, laoreet mattis
+                        </p>
+                    </div>                
+                </div>
+                <div class="owl-fade-slider owl-carousel owl-theme">
+                   <!--  <div class="fader-item">
+                        <img src="img/fade-slider/accra-7.jpg" alt="">
+                    </div> -->
+                   <div class="fader-item">
+                       <img src="img/fade-slider/accra-1.jpg" alt="">
+                   </div>
+                   <div class="fader-item">
+                       <img src="img/fade-slider/accra-2.jpg" alt="">
+                   </div>
+                   <!-- <div class="fader-item">
+                       <img src="img/fade-slider/accra-5.jpg" alt="">
+                   </div> -->
+                    <div class="fader-item">
+                        <img src="img/fade-slider/accra-13.jpg" alt="">
+                    </div>
+                   <div class="fader-item">
+                       <img src="img/fade-slider/accra-4.jpg" alt="">
+                   </div>
+                </div>
+            </div>
+        </div>
+</section><!-- End .fade-slider-area -->        <!-- End of  Full-Width-Fade-Slider Area -->
+
+        <!-- Essential Icons Area -->
+            <section class="essential-icons">
+    <div class="container">
+        <div class="row d-flex d-flex justify-content-center">
+            
+            <div class="col-4 col-md-2 icon-item">
+    <div class="icon-item-wrap">
+        <div class="icon-img">
+        <!-- <a href="#"><img src="img/essential-icons/permits.svg" alt=""></a> -->
+        <a href="building-permit.php">
+        <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                        viewBox="0 0 511.999 511.999" style="enable-background:new 0 0 511.999 511.999;" xml:space="preserve">
+                    <g>
+                        <g>
+                            <path d="M453.034,361.322c-2.808-1.164-6.04-0.521-8.19,1.628l-82.126,82.126c-2.149,2.15-2.792,5.382-1.628,8.19
+                                c1.162,2.809,3.904,4.639,6.943,4.639h82.126c4.151,0,7.515-3.364,7.515-7.515v-82.126
+                                C457.673,365.225,455.842,362.485,453.034,361.322z M386.173,442.876l56.469-56.469v56.469H386.173z"/>
+                        </g>
+                    </g>
+                    <g>
+                        <g>
+                            <path d="M507.361,240.867c-2.808-1.164-6.04-0.521-8.19,1.628l-22.507,22.507V111.971c0-4.151-3.365-7.515-7.515-7.515h-57.741
+                                l20.96-20.96c0.003-0.003,0.006-0.007,0.009-0.01l20.196-20.196c4.327-4.327,6.71-10.083,6.71-16.203s-2.383-11.874-6.71-16.203
+                                L429.219,7.53c-4.327-4.327-10.083-6.71-16.203-6.71s-11.875,2.383-16.203,6.71l-20.206,20.206l-24.416,24.416l-52.303,52.303
+                                H66.62V30.11c0-4.151-3.365-7.515-7.515-7.515C26.515,22.597,0,49.11,0,81.702v319.186c0,0.555,0.064,1.095,0.178,1.615
+                                c1.038,13.829,7.021,26.678,17.02,36.432C27.886,449.359,41.995,455.1,56.927,455.1h229.638l-43.249,43.249
+                                c-2.149,2.15-2.792,5.381-1.629,8.19c1.163,2.808,3.904,4.639,6.943,4.639h255.855c4.15,0,7.515-3.364,7.515-7.515V247.81
+                                C512,244.771,510.168,242.03,507.361,240.867z M407.443,18.159c3.072-3.074,8.077-3.074,11.149,0l23.355,23.355
+                                c3.074,3.073,3.074,8.076,0,11.15l-14.891,14.892L392.55,33.051L407.443,18.159z M381.922,43.679l34.505,34.504l-13.789,13.789
+                                l-34.503-34.504L381.922,43.679z M496.972,332.252h-13.865c-4.151,0-7.515,3.364-7.515,7.515c0,4.151,3.364,7.515,7.515,7.515
+                                h13.865v22.646h-13.865c-4.151,0-7.515,3.364-7.515,7.515s3.364,7.515,7.515,7.515h13.865v22.645h-13.865
+                                c-4.151,0-7.515,3.364-7.515,7.515c0,4.151,3.364,7.515,7.515,7.515h13.865v22.646h-13.865c-4.151,0-7.515,3.365-7.515,7.515
+                                c0,4.151,3.364,7.515,7.515,7.515h13.865v35.842h-230.2l75.908-75.907c2.935-2.936,2.935-7.693,0-10.628
+                                c-0.337-0.337-0.699-0.629-1.078-0.889c-2.926-2.004-6.952-1.709-9.551,0.889l-30.456,30.456H56.928
+                                c-22.792,0-41.14-17.794-41.862-40.545c0.043-1.428,0.154-2.844,0.332-4.244c0.001-0.008,0.002-0.016,0.003-0.024
+                                c0.084-0.665,0.185-1.327,0.3-1.985c0.013-0.075,0.027-0.15,0.04-0.225c0.105-0.587,0.223-1.171,0.352-1.753
+                                c0.036-0.162,0.074-0.324,0.112-0.485c0.114-0.492,0.237-0.981,0.369-1.468c0.072-0.264,0.147-0.525,0.224-0.788
+                                c0.11-0.382,0.224-0.763,0.345-1.14c0.121-0.377,0.25-0.75,0.381-1.123c0.091-0.261,0.181-0.522,0.279-0.781
+                                c0.183-0.492,0.377-0.979,0.577-1.462c0.057-0.139,0.113-0.28,0.172-0.419c0.257-0.6,0.524-1.193,0.806-1.779
+                                c0.012-0.025,0.023-0.05,0.035-0.075c5.878-12.164,17.183-21.233,30.75-24.047c0.038-0.008,0.076-0.017,0.114-0.025
+                                c0.622-0.127,1.25-0.236,1.882-0.337c0.105-0.017,0.21-0.038,0.317-0.054c0.571-0.087,1.148-0.155,1.725-0.22
+                                c0.162-0.018,0.323-0.043,0.486-0.059c0.557-0.056,1.119-0.093,1.681-0.128c0.178-0.011,0.356-0.03,0.534-0.039
+                                c0.736-0.037,1.478-0.056,2.223-0.056c4.15,0,7.515-3.364,7.515-7.515v-54.489c0-4.151-3.365-7.515-7.515-7.515
+                                c-4.15,0-7.515,3.364-7.515,7.515v47.447c-12.69,1.605-24.469,7.265-33.757,16.335c-0.977,0.954-1.903,1.946-2.805,2.954V81.702
+                                c0-21.741,15.826-39.858,36.561-43.436v73.705v152.777v0.001c0,4.15,3.365,7.515,7.515,7.515c4.15,0,7.515-3.365,7.515-7.515
+                                v-0.001V119.486h218.24l-41.544,41.544c-2.935,2.936-2.935,7.693,0,10.628c2.935,2.934,7.693,2.934,10.627,0l54.373-54.373
+                                c0.002-0.002,0.003-0.004,0.005-0.005l49.185-49.185l34.503,34.505l-4.048,4.048c-0.003,0.003-0.007,0.006-0.01,0.009
+                                l-151.528,151.53l-34.504-34.504l29.868-29.868c2.935-2.936,2.935-7.693,0-10.628c-2.935-2.934-7.693-2.934-10.627,0
+                                l-35.183,35.182c-0.188,0.188-0.364,0.387-0.529,0.591c-0.055,0.068-0.104,0.141-0.156,0.212c-0.106,0.141-0.21,0.283-0.307,0.431
+                                c-0.055,0.086-0.105,0.174-0.157,0.263c-0.083,0.14-0.163,0.282-0.236,0.427c-0.048,0.094-0.091,0.189-0.135,0.287
+                                c-0.067,0.147-0.129,0.297-0.186,0.447c-0.02,0.053-0.046,0.103-0.065,0.156l-14.641,41.475l-9.982,28.279
+                                c-0.132,0.376-0.227,0.758-0.298,1.143h-24.992c-4.15,0-7.515,3.364-7.515,7.515c0,4.151,3.365,7.515,7.515,7.515h208.114
+                                c4.151,0,7.515-3.364,7.515-7.515c0-4.151-3.364-7.515-7.515-7.515H193.093l45.83-16.178c0.038-0.014,0.074-0.033,0.112-0.047
+                                c0.178-0.066,0.353-0.14,0.526-0.219c0.069-0.032,0.138-0.062,0.205-0.095c0.18-0.09,0.357-0.189,0.531-0.295
+                                c0.056-0.034,0.114-0.065,0.169-0.1c0.181-0.116,0.357-0.243,0.53-0.377c0.043-0.033,0.088-0.062,0.13-0.096
+                                c0.209-0.168,0.414-0.349,0.608-0.543l154.644-154.643h65.255v160.546L354.137,387.53c-2.935,2.936-2.935,7.693,0,10.628
+                                c0.183,0.183,0.374,0.355,0.571,0.516c1.378,1.123,3.061,1.685,4.743,1.685s3.366-0.562,4.743-1.685
+                                c0.197-0.16,0.388-0.333,0.571-0.516c0.003-0.003,0,0,0.003-0.003L496.972,265.95V332.252z M222.677,265.696l-21.526,7.599
+                                l-14.342-14.342l7.599-21.526L222.677,265.696z"/>
+                        </g>
+                    </g>
+                  
+                </svg>
+            </a>
+        </div>
+        <h3><a href="building-permit.php" >Building & Construction Permit</a></h3>
+        <p class="d-none d-lg-block"><a href="building-permit.php">Find all the various kinds of permits issued by the assembly</a></p>
+    </div> <!-- End .icon-item-wrap -->
+</div><!-- End .icon-item -->
+            <div class="col-4 col-md-2 icon-item">
+    <div class="icon-item-wrap">
+        <div class="icon-img">
+        <!-- <a href="#"><img src="img/essential-icons/services.svg" alt=""></a>  -->
+        <a href="bop.php">
+        <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                    viewBox="0 0 480 480" style="enable-background:new 0 0 480 480;" xml:space="preserve">
+                    <g>
+                        <g>
+                            <path d="M240,0c-26.51,0-48,21.49-48,48s21.49,48,48,48c26.499-0.026,47.974-21.501,48-48C288,21.49,266.51,0,240,0z M240,80
+                                c-17.673,0-32-14.327-32-32s14.327-32,32-32c17.673,0,32,14.327,32,32S257.673,80,240,80z"/>
+                        </g>
+                    </g>
+                    <g>
+                        <g>
+                            <path d="M272,104h-1.888l-1.688,0.84c-17.901,8.913-38.947,8.913-56.848,0l-1.688-0.84H208c-22.08,0.026-39.974,17.92-40,40v48
+                                c0,13.255,10.745,24,24,24h96c13.255,0,24-10.745,24-24v-48C311.974,121.92,294.08,104.026,272,104z M296,192c0,4.418-3.582,8-8,8
+                                h-96c-4.418,0-8-3.582-8-8v-48c0.002-12.592,9.735-23.042,22.296-23.936c21.375,9.92,46.034,9.92,67.408,0
+                                c12.56,0.894,22.294,11.344,22.296,23.936V192z"/>
+                        </g>
+                    </g>
+                    <g>
+                        <g>
+                            <path d="M408,264c-26.51,0-48,21.49-48,48c0,26.51,21.49,48,48,48c26.51,0,48-21.49,48-48
+                                C455.974,285.501,434.499,264.026,408,264z M408,344c-17.673,0-32-14.327-32-32c0-17.673,14.327-32,32-32
+                                c17.673,0,32,14.327,32,32C440,329.673,425.673,344,408,344z"/>
+                        </g>
+                    </g>
+                    <g>
+                        <g>
+                            <path d="M440,368h-1.888l-1.688,0.8c-17.901,8.912-38.947,8.912-56.848,0l-1.688-0.8H376c-22.08,0.026-39.974,17.92-40,40v48
+                                c0,13.255,10.745,24,24,24h96c13.255,0,24-10.745,24-24v-48C479.974,385.92,462.08,368.026,440,368z M464,456c0,4.418-3.582,8-8,8
+                                h-96c-4.418,0-8-3.582-8-8v-48c0.002-12.592,9.735-23.042,22.296-23.936c21.375,9.92,46.033,9.92,67.408,0
+                                C454.265,384.958,463.998,395.408,464,408V456z"/>
+                        </g>
+                    </g>
+                    <g>
+                        <g>
+                            <path d="M72,264c-26.51,0-48,21.49-48,48c0,26.51,21.49,48,48,48s48-21.49,48-48C119.974,285.501,98.499,264.026,72,264z M72,344
+                                c-17.673,0-32-14.327-32-32c0-17.673,14.327-32,32-32s32,14.327,32,32C104,329.673,89.673,344,72,344z"/>
+                        </g>
+                    </g>
+                    <g>
+                        <g>
+                            <path d="M104,368h-1.888l-1.688,0.8c-17.901,8.912-38.947,8.912-56.848,0l-1.688-0.8H40c-22.08,0.026-39.974,17.92-40,40v48
+                                c0,13.255,10.745,24,24,24h96c13.255,0,24-10.745,24-24v-48C143.974,385.92,126.08,368.026,104,368z M128,456c0,4.418-3.582,8-8,8
+                                H24c-4.418,0-8-3.582-8-8v-48c0.002-12.592,9.735-23.042,22.296-23.936c21.375,9.92,46.033,9.92,67.408,0
+                                C118.265,384.958,127.998,395.408,128,408V456z"/>
+                        </g>
+                    </g>
+                    <g>
+                        <g>
+                            <path d="M319.372,406.276c-0.004-0.009-0.008-0.018-0.012-0.028c-1.732-4.065-6.431-5.956-10.495-4.224c0,0,0,0,0,0
+                                c-36.125,15.14-76.245,17.902-114.104,7.856l7.488-2.2c4.242-1.242,6.674-5.686,5.432-9.928s-5.686-6.674-9.928-5.432l-32,9.384
+                                c-0.12,0-0.208,0.136-0.32,0.176c-0.741,0.276-1.437,0.662-2.064,1.144c-0.278,0.15-0.545,0.318-0.8,0.504
+                                c-0.844,0.753-1.513,1.681-1.96,2.72c-0.434,1.046-0.641,2.172-0.608,3.304c0.195,1.083,0.462,2.152,0.8,3.2
+                                c0.048,0.112,0,0.24,0.088,0.352l16,30.616c2.046,3.919,6.881,5.438,10.8,3.392s5.438-6.881,3.392-10.8l-6.512-12.448
+                                c43.014,12.93,89.195,10.417,130.552-7.104C319.189,415.039,321.093,410.345,319.372,406.276z"/>
+                        </g>
+                    </g>
+                    <g>
+                        <g>
+                            <path d="M453.656,210.344c-3.124-3.123-8.188-3.123-11.312,0l-11.32,11.32c-6.624-70.07-51.111-130.876-115.888-158.4
+                                c-4.065-1.732-8.764,0.159-10.496,4.224c-1.732,4.065,0.159,8.764,4.224,10.496c58.11,24.697,98.504,78.669,105.816,141.384
+                                l-9.024-9.024c-3.178-3.07-8.242-2.982-11.312,0.196c-2.994,3.1-2.994,8.015,0,11.116l24,24c3.12,3.128,8.186,3.135,11.314,0.014
+                                c0.005-0.005,0.01-0.01,0.014-0.014l24-24C456.791,218.528,456.784,213.464,453.656,210.344z"/>
+                        </g>
+                    </g>
+                    <g>
+                        <g>
+                            <path d="M175.768,69.272c-0.026-0.467-0.095-0.93-0.208-1.384c0-0.072-0.088-0.12-0.12-0.2c-0.032-0.08,0-0.136,0-0.2
+                                c-0.218-0.389-0.47-0.759-0.752-1.104c-0.259-0.469-0.565-0.911-0.912-1.32c-0.473-0.419-0.997-0.776-1.56-1.064
+                                c-0.281-0.239-0.581-0.456-0.896-0.648l-32-14.616c-4.087-1.678-8.761,0.275-10.439,4.362c-1.587,3.865,0.068,8.301,3.799,10.182
+                                l16.568,7.576C86.875,104.237,47.955,169.256,48,240c0,4.418,3.582,8,8,8s8-3.582,8-8c-0.04-62.293,32.901-119.952,86.584-151.552
+                                l-5.784,12.088c-1.907,3.977-0.236,8.747,3.736,10.664c1.079,0.527,2.263,0.801,3.464,0.8c3.072-0.004,5.87-1.767,7.2-4.536
+                                l16-33.384c0-0.08,0-0.168,0.064-0.248c0.208-0.547,0.353-1.116,0.432-1.696c0.137-0.431,0.239-0.872,0.304-1.32
+                                C175.973,70.295,175.896,69.778,175.768,69.272z"/>
+                        </g>
+                    </g>
+                </svg>
+
+            </a>
+        </div>
+        <h3><a href="bop.php">Business Operating Permit</a></h3>
+        <p class="d-none d-lg-block"><a href="bop.php">Find all the services provided by the assembly</a></p>
+    </div> <!-- End .icon-item-wrap -->
+</div><!-- End .icon-item -->
+            <div class="col-4 col-md-2 icon-item">
+    <div class="icon-item-wrap">
+        <div class="icon-img">
+            <!-- <a href="#"><img src="img/essential-icons/events.svg" alt=""></a> -->
+            <a href="outdoor-ad-permit.php">
+                <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 337.5 337.499" style="enable-background:new 0 0 337.5 337.499;" xml:space="preserve">
+                        <g>
+                            <g>
+                                <path d="M0,182.925h10.125v6.75h133.65v125.55h-18.9v20.25h87.75v-20.25h-18.899v-125.55h133.649v-6.75H337.5V2.024H0V182.925z
+                                    M292.95,166.725v-4.894c5.273-2.136,9.002-7.288,9.002-13.331c0-7.955-6.449-14.402-14.401-14.402
+                                    c-7.953,0-14.402,6.447-14.402,14.402c0,6.043,3.729,11.195,9.002,13.331v4.894h-88.425H174.15v-4.894
+                                    c5.273-2.136,9.002-7.288,9.002-13.331c0-0.077-0.021-0.146-0.021-0.227c-0.121-7.847-6.507-14.175-14.381-14.175
+                                    c-7.873,0-14.256,6.328-14.375,14.175c0,0.077-0.021,0.145-0.021,0.227c0,6.043,3.726,11.195,9.001,13.331v4.894H143.78H51.3
+                                    v-5.12c5.276-2.136,9.002-7.288,9.002-13.332c0-7.955-6.447-14.402-14.402-14.402s-14.402,6.447-14.402,14.402
+                                    c0,6.043,3.726,11.196,9.002,13.332v5.12H10.8v-153.9h315.9v153.9H292.95z"/>
+                                <path d="M62.229,31.633l-32.21,90.239h19.725l6.12-18.549h33.231l5.957,18.549h20.45L83.565,31.633H62.229z M60.987,87.771
+                                    L72.7,52.26l11.401,35.511H60.987z"/>
+                                <path d="M168.605,63.59c-1.962-3.144-4.509-5.598-7.652-7.375c-3.143-1.777-6.734-2.663-10.774-2.663
+                                    c-8.774,0-15.783,3.267-21.027,9.795c-5.245,6.529-7.868,15.488-7.868,26.876c0,9.877,2.663,17.972,7.992,24.274
+                                    c5.329,6.302,11.886,9.46,19.683,9.46c4.736,0,8.693-0.896,11.881-2.694c3.185-1.799,6.02-4.673,8.508-8.636v9.245h16.962V31.751
+                                    h-17.694V63.59H168.605z M165.241,103.749c-2.571,3.673-6.328,5.509-11.265,5.509c-4.941,0-8.625-1.846-11.05-5.54
+                                    c-2.423-3.694-3.644-8.625-3.644-14.787c0-5.711,1.194-10.496,3.581-14.356c2.386-3.855,6.133-5.782,11.237-5.782
+                                    c3.349,0,6.286,1.062,8.817,3.185c4.121,3.51,6.184,9.348,6.184,17.514C169.095,95.325,167.811,100.079,165.241,103.749z"/>
+                            </g>
+                        </g>
+                </svg>
+            </a>
+        </div>
+        <h3><a href="outdoor-ad-permit.php">Outdoor Advertising Permit</a></h3>
+        <p class="d-none d-lg-block"><a href="outdoor-ad-permit.php">Find all the projects the assembly is undertaking</a></p>
+    </div> <!-- End .icon-item-wrap -->
+</div><!-- End .icon-item -->
+            
+            <div class="col-4 col-md-2 icon-item">
+    <div class="icon-item-wrap">
+        <div class="icon-img">
+        <!-- <a href="#"><img src="img/essential-icons/by-laws.svg" alt=""></a>  -->
+        <a href="waste-management-services.php">
+            <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                viewBox="0 0 774.266 774.266" style="enable-background:new 0 0 774.266 774.266;"
+                xml:space="preserve">
+            <g>
+                <g>
+                    <path d="M640.35,91.169H536.971V23.991C536.971,10.469,526.064,0,512.543,0c-1.312,0-2.187,0.438-2.614,0.875
+                        C509.491,0.438,508.616,0,508.179,0H265.212h-1.74h-1.75c-13.521,0-23.99,10.469-23.99,23.991v67.179H133.916
+                        c-29.667,0-52.783,23.116-52.783,52.783v38.387v47.981h45.803v491.6c0,29.668,22.679,52.346,52.346,52.346h415.703
+                        c29.667,0,52.782-22.678,52.782-52.346v-491.6h45.366v-47.981v-38.387C693.133,114.286,670.008,91.169,640.35,91.169z
+                        M285.713,47.981h202.84v43.188h-202.84V47.981z M599.349,721.922c0,3.061-1.312,4.363-4.364,4.363H179.282
+                        c-3.052,0-4.364-1.303-4.364-4.363V230.32h424.431V721.922z M644.715,182.339H129.551v-38.387c0-3.053,1.312-4.802,4.364-4.802
+                        H640.35c3.053,0,4.365,1.749,4.365,4.802V182.339z"/>
+                    <rect x="475.031" y="286.593" width="48.418" height="396.942"/>
+                    <rect x="363.361" y="286.593" width="48.418" height="396.942"/>
+                    <rect x="251.69" y="286.593" width="48.418" height="396.942"/>
+                </g>
+            </g>
+            </svg>
+        </a>
+        </div>
+        <h3><a href="waste-management-services.php">Waste Management Services</a></h3>
+        <p class="d-none d-lg-block"><a href="waste-management-services.php">Waste Management Services Rendered by the Assembly</a></p>
+    </div> <!-- End .icon-item-wrap -->
+</div><!-- End .icon-item -->
+            <div class="col-4 col-md-2 icon-item">
+    <div class="icon-item-wrap">
+        <div class="icon-img">
+            <!-- <a href="#"><img src="img/essential-icons/document-centre.svg" alt=""></a> -->
+            <a href="https://www.epay.gov.gh/services-by-mda/ama-accra-metropolitan-assembly.html" target="_blank">
+            <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                    viewBox="0 0 59.947 59.947" style="enable-background:new 0 0 59.947 59.947;" xml:space="preserve">
+                    <g>
+                        <g>
+                            <path  d="M54,23.064l-0.109-0.334c-0.164-0.486-3.248-9.59-8.48-14.856
+                                c-0.512-1.223-1.479-2.208-2.684-2.751c0.004-0.05,0.015-0.099,0.015-0.151c0-1.27-1.028-2.299-2.3-2.299
+                                c-1.27,0-2.299,1.029-2.299,2.299c0,0.101,0.017,0.196,0.027,0.292c-1.145,0.604-2.033,1.621-2.479,2.85
+                                c-1.591,1.768-3.497,4.284-5.354,7.691c-1.808-2.338-4.83-3.618-7.708-4.364l-2.695,5.542l0.585-4.945h0.099v-0.82h-2.04v0.82
+                                h0.104l0.692,4.948l-2.696-5.768c-0.25,0.07,0.061,0.011-0.176,0.103c-4.215,1.017-7.947,2.89-9.521,7.149
+                                c-1.658,4.49-0.95,9.994-0.417,14.527c0.33,2.812,4.782,2.844,4.447,0c-0.442-3.771-0.208-7.52-0.104-11.334
+                                c0.043-1.582,0.619-2.737,1.502-3.61l-0.051,19.52v19.435c0,1.599,1.17,2.892,2.813,2.892s2.974-1.293,2.974-2.892v-20.25
+                                c0,0,0.095-1.024,1.141-1.037c1.046-0.012,1.019,0.987,1.019,0.987V56.95c0,1.598,1.332,2.893,2.975,2.893
+                                s2.974-1.295,2.974-2.893l0.099-20.891c0-0.197,0.02-14.123,0.025-17.832c0.699,0.778,0.761,1.973,1.356,3.147
+                                c-0.175,0.439-0.348,0.886-0.518,1.346l-0.127,0.344h1.519c0.791,1.795,1.169,3.768,1.261,5.758
+                                c-0.108,1.205-0.158,2.425-0.165,3.653c-0.001,0.068,0.013,0.129,0.018,0.192c-0.324,2.836,4.118,2.801,4.448-0.011
+                                c0.2-1.713,0.107-3.405-0.154-5.09c0.158-1.177,0.438-2.322,0.931-3.459c0.446,0.749,1.765,3.575-0.321,8.472
+                                c-4.291,10.063-3.363,19.237-3.354,19.332c0.026,0.259,0.247,0.456,0.508,0.456h3.272v4.92c0,1.47,0.918,2.66,2.205,2.66
+                                s2.33-1.19,2.33-2.66v-4.92h1.693v4.869c0,1.47,1.042,2.658,2.332,2.658c1.287,0,2.331-1.188,2.331-2.658l0.039-4.869h2.999
+                                c0.252,0,0.466-0.186,0.506-0.436c0.057-0.373,1.382-9.275-2.914-19.354c-1.686-3.957-1.166-6.543-0.658-7.796
+                                c0.822,2.208,1.672,4.994,1.688,7.691c0.016,2.637,4.104,2.637,4.088,0c-0.021-3.252-0.31-6.466-1.351-9.41H54V23.064z
+                                M19.573,28.621c-0.5,0-0.906-0.406-0.906-0.907c0-0.5,0.406-0.906,0.906-0.906c0.501,0,0.907,0.406,0.907,0.906
+                                C20.481,28.215,20.074,28.621,19.573,28.621z M19.573,25.769c-0.5,0-0.906-0.406-0.906-0.906c0-0.501,0.406-0.906,0.906-0.906
+                                c0.501,0,0.907,0.405,0.907,0.906C20.481,25.363,20.074,25.769,19.573,25.769z M19.641,22.916c-0.501,0-0.907-0.406-0.907-0.907
+                                c0-0.5,0.406-0.906,0.907-0.906c0.5,0,0.906,0.406,0.906,0.906S20.141,22.916,19.641,22.916z M23.358,17.778l0.452-1.321
+                                l-1.389,1.876l1.389-3.752l0.487,3.752L23.358,17.778z M27.824,22.556c0.076-0.201,0.153-0.395,0.23-0.591
+                                c0.11,0.195,0.214,0.392,0.313,0.591H27.824z M35.888,9.845c0.709-0.222,1.974-0.737,3.055-1.817
+                                c2.841,2.27,5.533,2.118,6.35,2.007c-0.082,2.523-2.154,4.553-4.697,4.553c-2.596,0-4.707-2.11-4.707-4.706
+                                C35.886,9.869,35.888,9.857,35.888,9.845z M45.633,32.984c3.651,8.568,3.103,16.465,2.896,18.364H32.252
+                                c-0.123-1.944-0.332-9.819,3.307-18.364c2.101-4.917,1.019-7.998,0.391-9.174c0.534-0.218,1.487-0.544,2.734-0.74h4.185
+                                c1.136,0.189,1.94,0.496,2.396,0.708C44.638,24.93,43.515,28.02,45.633,32.984z M37.672,17.87c-0.459,0-0.832-0.372-0.832-0.831
+                                c0-0.458,0.373-0.83,0.832-0.83c0.457,0,0.828,0.372,0.828,0.83C38.5,17.498,38.129,17.87,37.672,17.87z M39.331,19.748
+                                c0,0.459-0.372,0.831-0.831,0.831s-0.828-0.371-0.828-0.831c0-0.458,0.369-0.83,0.828-0.83S39.331,19.29,39.331,19.748z
+                                M39.802,21.462c0-0.458,0.371-0.83,0.83-0.83c0.058,0,0.112,0.005,0.168,0.017c0.438,0.022,0.789,0.383,0.789,0.827
+                                c0,0.152-0.043,0.294-0.115,0.417c-0.217-0.01-0.44-0.016-0.672-0.016c-0.295,0-0.578,0.011-0.855,0.027
+                                C39.862,21.775,39.802,21.628,39.802,21.462z M43.724,19.762c0,0.458-0.373,0.83-0.83,0.83c-0.459,0-0.831-0.372-0.831-0.83
+                                s0.372-0.83,0.831-0.83C43.351,18.932,43.724,19.304,43.724,19.762z M42.894,17.054c0-0.46,0.371-0.832,0.83-0.832
+                                c0.457,0,0.83,0.372,0.83,0.832c0,0.458-0.373,0.83-0.83,0.83C43.265,17.884,42.894,17.512,42.894,17.054z M47.004,17.492
+                                c-0.692-0.741-4.646-2.175-6.231-2.175c-1.613,0-5.654,1.399-6.382,2.175c-0.86,0.924-1.562,1.911-2.146,2.944
+                                c-0.188-0.653-0.382-1.309-0.563-1.967c-0.229-0.817-0.576-1.545-1.012-2.2c1.613-3.009,3.275-5.319,4.729-7.039
+                                c-0.039,0.25-0.062,0.502-0.062,0.762c0,0,0.021-0.004,0.049-0.011c0.056,2.832,2.369,5.118,5.213,5.118
+                                c2.875,0,5.218-2.34,5.218-5.217c0-0.306-0.032-0.604-0.083-0.896c4.236,4.741,6.972,11.938,7.558,13.57h-3.133
+                                C49.45,20.737,48.439,19.03,47.004,17.492z"/>
+                            <circle  cx="19.261" cy="5.057" r="5.057"/>
+                        </g>
+                    </g>
+                </svg>
+            </a>
+        </div>
+        <h3><a href="https://www.epay.gov.gh/services-by-mda/ama-accra-metropolitan-assembly.html" target="_blank">Marriage Registration</a></h3>
+        <p class="d-none d-lg-block"><a href="https://www.epay.gov.gh/services-by-mda/ama-accra-metropolitan-assembly.html">Find all the marriage services the Asssembly provide</a></p>
+    </div> <!-- End .icon-item-wrap -->
+</div><!-- End .icon-item -->
+            <div class="col-4 col-md-2 icon-item">
+    <div class="icon-item-wrap">
+        <div class="icon-img">
+        <!-- <a href="#"><img src="img/essential-icons/faqs.svg" alt=""></a>  -->
+            <a href="citizens-feedback.php">
+                <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                    viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+                    <g>
+                        <g>
+                            <g>
+                                <path d="M469.333,0H42.667C19.146,0,0,19.135,0,42.667v128c0,23.531,19.146,42.667,42.667,42.667H78.75l7.708,15.438
+                                    c3.625,7.229,15.458,7.229,19.083,0l7.708-15.438h121.417l12.792,17.063c4.042,5.375,13.042,5.375,17.083,0l12.792-17.063H398.75
+                                    l7.708,15.438c1.813,3.615,5.5,5.896,9.542,5.896c4.042,0,7.729-2.281,9.542-5.896l7.708-15.438h36.083
+                                    c23.521,0,42.667-19.135,42.667-42.667v-128C512,19.135,492.854,0,469.333,0z M490.667,170.667
+                                    c0,11.76-9.563,21.333-21.333,21.333h-42.667c-4.042,0-7.729,2.281-9.542,5.896l-1.125,2.25l-1.125-2.25
+                                    c-1.813-3.615-5.5-5.896-9.542-5.896H272c-3.354,0-6.521,1.583-8.542,4.271L256,206.219l-7.458-9.948
+                                    C246.521,193.583,243.354,192,240,192H106.667c-4.042,0-7.729,2.281-9.542,5.896L96,200.146l-1.125-2.25
+                                    c-1.813-3.615-5.5-5.896-9.542-5.896H42.667c-11.771,0-21.333-9.573-21.333-21.333v-128c0-11.76,9.563-21.333,21.333-21.333
+                                    h426.667c11.771,0,21.333,9.573,21.333,21.333V170.667z"/>
+                                <path d="M309.333,341.333C309.333,311.927,285.417,288,256,288s-53.333,23.927-53.333,53.333
+                                    c0,29.406,23.917,53.333,53.333,53.333S309.333,370.74,309.333,341.333z M224,341.333c0-17.646,14.354-32,32-32s32,14.354,32,32
+                                    c0,17.646-14.354,32-32,32S224,358.979,224,341.333z"/>
+                                <path d="M469.333,309.333C469.333,279.927,445.417,256,416,256c-29.417,0-53.333,23.927-53.333,53.333
+                                    s23.917,53.333,53.333,53.333C445.417,362.667,469.333,338.74,469.333,309.333z M384,309.333c0-17.646,14.354-32,32-32
+                                    c17.646,0,32,14.354,32,32c0,17.646-14.354,32-32,32C398.354,341.333,384,326.979,384,309.333z"/>
+                                <path d="M149.333,309.333C149.333,279.927,125.417,256,96,256s-53.333,23.927-53.333,53.333S66.583,362.667,96,362.667
+                                    S149.333,338.74,149.333,309.333z M64,309.333c0-17.646,14.354-32,32-32s32,14.354,32,32c0,17.646-14.354,32-32,32
+                                    S64,326.979,64,309.333z"/>
+                                <path d="M416,64H96c-5.896,0-10.667,4.771-10.667,10.667c0,5.896,4.771,10.667,10.667,10.667h320
+                                    c5.896,0,10.667-4.771,10.667-10.667C426.667,68.771,421.896,64,416,64z"/>
+                                <path d="M352,128H96c-5.896,0-10.667,4.771-10.667,10.667c0,5.896,4.771,10.667,10.667,10.667h256
+                                    c5.896,0,10.667-4.771,10.667-10.667C362.667,132.771,357.896,128,352,128z"/>
+                                <path d="M488.958,395.344c-17.042-10.042-43.542-22.01-72.958-22.01c-29.417,0-55.917,11.969-72.958,22.01
+                                    c-12.117,7.151-19.944,20.155-22.098,34.849C303.145,422.668,280.467,416,256,416s-47.143,6.667-64.943,14.191
+                                    c-2.154-14.694-9.982-27.697-22.099-34.848c-17.042-10.042-43.542-22.01-72.958-22.01s-55.917,11.969-72.958,22.01
+                                    C8.833,403.729,0,420.01,0,437.833v6.833c0,13.604,10.25,24.667,22.854,24.667h128c-0.855,3.626-1.521,7.327-1.521,11.167v6.833
+                                    c0,13.604,10.938,24.667,24.375,24.667h164.583c13.438,0,24.375-11.063,24.375-24.667V480.5c0-3.84-0.665-7.54-1.521-11.167h128
+                                    c12.604,0,22.854-11.063,22.854-24.667v-6.833C512,420.01,503.167,403.729,488.958,395.344z M162.253,448H22.854
+                                    c-0.25,0-1.521-1.115-1.521-3.333v-6.833c0-10.156,4.917-19.615,12.542-24.115c14.75-8.688,37.5-19.052,62.125-19.052
+                                    s47.375,10.365,62.125,19.052c7.625,4.5,12.542,13.958,12.542,24.115l0.056,3.013C167.604,442.954,164.751,445.279,162.253,448z
+                                    M341.333,487.333c0,1.833-1.354,3.333-3.042,3.333H173.708c-1.688,0-3.042-1.5-3.042-3.333V480.5
+                                    c0-10.094,5.479-19.229,14.313-23.854c16.813-8.813,42.771-19.313,71.021-19.313s54.208,10.5,71.021,19.313
+                                    c8.833,4.625,14.313,13.76,14.313,23.854V487.333z M490.667,444.667c0,2.219-1.271,3.333-1.521,3.333H349.747
+                                    c-2.483-2.704-5.319-5.014-8.414-7.113v-3.053c0-10.156,4.917-19.615,12.542-24.115c14.75-8.688,37.5-19.052,62.125-19.052
+                                    s47.375,10.365,62.125,19.052c7.625,4.5,12.542,13.958,12.542,24.115V444.667z"/>
+                            </g>
+                        </g>
+                    </g>
+                </svg>
+            </a>
+        </div>
+        <h3><a href="citizens-feedback.php">Citizens Feedback</a></h3>
+        <p class="d-none d-lg-block"><a href="citizens-feedback.php">Find all the frequently asked questions about the assembly</a></p>
+    </div> <!-- End .icon-item-wrap -->
+</div><!-- End .icon-item -->            
+        </div><!-- End .row -->
+    </div><!-- End .container -->
+</section><!-- End .fixture-result -->        <!-- End of Essential Icons Area -->
+
+        <!-- Other What's New Area -->
+            <section class="whats-new-area">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12"><h2>What's New</h2></div>      
+              <div class="col-lg-12 col-xl-8 news-carousel">
+                    <div class=" owl-news owl-carousel owl-theme">
+            <div class="news-item-content"> 
+            <div class="news-img">
+                <a href="news-details.php?n=OTE4NHI0cDYyMm5vMzcxMXNzM3E3czk5b3I4ODQzc24wMzY2cjYyNA=="><img src="ama-dash/_/components/php/articles-images/news/assembly_members.jpeg" alt="" class="img-fluid"></a>
+            </div>
+            <div class="news-text">
+                <h3><a href="news-details.php?n=OTE4NHI0cDYyMm5vMzcxMXNzM3E3czk5b3I4ODQzc24wMzY2cjYyNA==">Discharge your duties without partisan considerations - Mayor Sowah cautions new assembly members</a></h3>
+                <!-- <p>
+                    <a href="#">Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In posuere felis nec tortor. 
+                        Pellentesque faucibus. Ut accumsan ultricies elit.</a>
+                </p> -->
+                <!-- <a href="#" class="btn btn-primary ">Find All News</a> -->
+                <span class="float-right" title="Fri, 24th Jan 2020   5:25 pm" ><i class="fas fa-clock"></i> 24.Jan.2020 </span>
+            </div>
+        </div> <!-- End .news-item-content -->
+            <div class="news-item-content"> 
+            <div class="news-img">
+                <a href="news-details.php?n=M29vczk1cjlxbjkxMzE1bm8wODlvMDUzNTI0MzI3MTBubzQ1cTMzMA=="><img src="ama-dash/_/components/php/articles-images/news/standing_orders.jpeg" alt="" class="img-fluid"></a>
+            </div>
+            <div class="news-text">
+                <h3><a href="news-details.php?n=M29vczk1cjlxbjkxMzE1bm8wODlvMDUzNTI0MzI3MTBubzQ1cTMzMA==">Revised Standing Orders for MMDAs launched</a></h3>
+                <!-- <p>
+                    <a href="#">Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In posuere felis nec tortor. 
+                        Pellentesque faucibus. Ut accumsan ultricies elit.</a>
+                </p> -->
+                <!-- <a href="#" class="btn btn-primary ">Find All News</a> -->
+                <span class="float-right" title="Fri, 24th Jan 2020   5:22 pm" ><i class="fas fa-clock"></i> 24.Jan.2020 </span>
+            </div>
+        </div> <!-- End .news-item-content -->
+            <div class="news-item-content"> 
+            <div class="news-img">
+                <a href="news-details.php?n=MHExMTJwcjI0NDMwcTE3NjhycG80b28xMzAzOHMycThzNTY5cHM2OQ=="><img src="ama-dash/_/components/php/articles-images/news/Accra_Aca_fire_issue.jpg" alt="" class="img-fluid"></a>
+            </div>
+            <div class="news-text">
+                <h3><a href="news-details.php?n=MHExMTJwcjI0NDMwcTE3NjhycG80b28xMzAzOHMycThzNTY5cHM2OQ==">Mayor Sowah visits Accra Academy fire disaster scene</a></h3>
+                <!-- <p>
+                    <a href="#">Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In posuere felis nec tortor. 
+                        Pellentesque faucibus. Ut accumsan ultricies elit.</a>
+                </p> -->
+                <!-- <a href="#" class="btn btn-primary ">Find All News</a> -->
+                <span class="float-right" title="Mon, 20th Jan 2020   4:23 pm" ><i class="fas fa-clock"></i> 20.Jan.2020 </span>
+            </div>
+        </div> <!-- End .news-item-content -->
+            <div class="news-item-content"> 
+            <div class="news-img">
+                <a href="news-details.php?n=cm40NjhyNG5vNDYwODAzbjBwNzgxbjAzNzU4cTZwcm44bzMxNzc5NA=="><img src="ama-dash/_/components/php/articles-images/news/air_pollution.jpg" alt="" class="img-fluid"></a>
+            </div>
+            <div class="news-text">
+                <h3><a href="news-details.php?n=cm40NjhyNG5vNDYwODAzbjBwNzgxbjAzNzU4cTZwcm44bzMxNzc5NA==">AMA urges traditional leaders to help fight against air pollution</a></h3>
+                <!-- <p>
+                    <a href="#">Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In posuere felis nec tortor. 
+                        Pellentesque faucibus. Ut accumsan ultricies elit.</a>
+                </p> -->
+                <!-- <a href="#" class="btn btn-primary ">Find All News</a> -->
+                <span class="float-right" title="Mon, 20th Jan 2020   4:17 pm" ><i class="fas fa-clock"></i> 20.Jan.2020 </span>
+            </div>
+        </div> <!-- End .news-item-content -->
+    
+   <!--  <div class="news-item-content"> 
+        <div class="news-img">
+            <a href="#"><img src="img/news/news-1.jpg" alt="" class="img-fluid"></a>
+        </div>
+        <div class="news-text">
+            <h3><a href="#">Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas</a></h3>
+            <span class="float-right"><i class="fas fa-clock"></i> 2 days ago</span>
+        </div>
+    </div> --> <!-- End .news-item-content -->
+</div><!-- End .owl-carousel -->              </div>
+              <div class="col-lg-12 col-xl-4 ama-programs d-none d-xl-block">
+                  <div class="ama-programs-wrap owl-ama-programs owl-carousel owl-theme ">
+
+    
+    <img src="img/ama-programs/snap-cinema.jpg" class="img-fluid" alt="">
+    <!-- <img src="img/ama-programs/live-in-love-it.jpg" class="img-fluid" alt="">
+    <img src="img/ama-programs/clean-host.jpg" class="img-fluid" alt="">  -->
+    <!-- <img src="img/ama-programs/therebeccafoundation.jpg" class="img-fluid" alt=""> -->
+    <!-- <img src="img/ama-programs/republica.jpg" class="img-fluid" alt=""> -->
+    <!-- <img src="img/ama-programs/youth.jpg" class="img-fluid" alt="">
+    <img src="img/ama-programs/bmlectures.jpg" class="img-fluid" alt="">     -->
+    <!-- <img src="img/ama-programs/clean-host.jpg" class="img-fluid" alt=""> -->
+    <!-- <img src="img/ama-programs/book-fair.jpg" class="img-fluid" alt=""> -->
+     
+    <!-- -->
+
+</div>              </div>
+              <div class="col-md-12">
+                  <hr>
+              </div>
+        </div><!-- End .row -->
+
+         <div class="row">       
+              <div class="col-md-5 ama-this-month">
+                    <div class="ama-this-month-wrap">
+    <h2>AMA This Month</h2>
+            <div class="ama-this-month-box">
+            <table class="table">
+                <tr>
+                    <td>
+                        <div class="img-wrap">
+                            <a href="news-details.php?n=NDQxOXEzOXMxczU4OXAzcW4yM3AzOTYyMHExcXE4bjRwNDMzNnI0Nw==">
+                                <img src="ama-dash/_/components/php/articles-images/news/thumbs/phpWqR1vl_thb.jpg" class="img-fluid img-round" alt="">
+                            </a>
+                        </div>
+                    </td>
+                    <td>
+                        <div class="text-wrap">
+                            <h3><a href="news-details.php?n=NDQxOXEzOXMxczU4OXAzcW4yM3AzOTYyMHExcXE4bjRwNDMzNnI0Nw==">Develop remedies to control urbanisation- Mayor Sowah urges Development Planners</a></h3>
+                            <h5 title="Mon, 20th Jan 2020   4:12 pm" ><i class="fas fa-clock"></i> 20.Jan.2020 </h5>
+                        </div>
+                    </td>
+                </tr>
+                
+                <tr>
+                     <td colspan="2">
+                        <div class="text-wrap">
+                            <p class=""><a href="news-details.php?n=NDQxOXEzOXMxczU4OXAzcW4yM3AzOTYyMHExcXE4bjRwNDMzNnI0Nw==">The Metropolitan Chief Executive of Accra, Mohammed Adjei Sowah has urged Development Planners to...</a></p>
+                            <!-- <h5 title="Mon, 20th Jan 2020   4:12 pm" ><i class="fas fa-clock"></i> 20.Jan.2020 </h5> -->
+                        </div>
+                    </td>
+                </tr>
+            </table>
+        </div><!-- End .ama-this-month-box -->
+            <div class="ama-this-month-box">
+            <table class="table">
+                <tr>
+                    <td>
+                        <div class="img-wrap">
+                            <a href="news-details.php?n=N3IwNjk3NDc1NzJzNDM3NTdwcm5ucjE5ODVvcDU2cHNzcW5zbnJvbw==">
+                                <img src="ama-dash/_/components/php/articles-images/news/thumbs/phpniJ4Xt_thb.jpg" class="img-fluid img-round" alt="">
+                            </a>
+                        </div>
+                    </td>
+                    <td>
+                        <div class="text-wrap">
+                            <h3><a href="news-details.php?n=N3IwNjk3NDc1NzJzNDM3NTdwcm5ucjE5ODVvcDU2cHNzcW5zbnJvbw==">Mayor Sowah kicks off 2020 stakeholder engagement with residents of Korle- Bu</a></h3>
+                            <h5 title="Mon, 20th Jan 2020   4:07 pm" ><i class="fas fa-clock"></i> 20.Jan.2020 </h5>
+                        </div>
+                    </td>
+                </tr>
+                
+                <tr>
+                     <td colspan="2">
+                        <div class="text-wrap">
+                            <p class=""><a href="news-details.php?n=N3IwNjk3NDc1NzJzNDM3NTdwcm5ucjE5ODVvcDU2cHNzcW5zbnJvbw==">The Metropolitan Chief Executive (MCE) of Accra, Mohammed Adjei Sowah has commenced the...</a></p>
+                            <!-- <h5 title="Mon, 20th Jan 2020   4:07 pm" ><i class="fas fa-clock"></i> 20.Jan.2020 </h5> -->
+                        </div>
+                    </td>
+                </tr>
+            </table>
+        </div><!-- End .ama-this-month-box -->
+            <div class="ama-this-month-box">
+            <table class="table">
+                <tr>
+                    <td>
+                        <div class="img-wrap">
+                            <a href="news-details.php?n=OTM3M280cDczNHM4cG41OHEwOW8wbzlxc3I2OHBvMjM4NTQzMjY3MQ==">
+                                <img src="ama-dash/_/components/php/articles-images/news/thumbs/php5rhdW3_thb.jpg" class="img-fluid img-round" alt="">
+                            </a>
+                        </div>
+                    </td>
+                    <td>
+                        <div class="text-wrap">
+                            <h3><a href="news-details.php?n=OTM3M280cDczNHM4cG41OHEwOW8wbzlxc3I2OHBvMjM4NTQzMjY3MQ==">AMA honours 4 institutions for beautifying Accra</a></h3>
+                            <h5 title="Mon, 20th Jan 2020   4:02 pm" ><i class="fas fa-clock"></i> 20.Jan.2020 </h5>
+                        </div>
+                    </td>
+                </tr>
+                
+                <tr>
+                     <td colspan="2">
+                        <div class="text-wrap">
+                            <p class=""><a href="news-details.php?n=OTM3M280cDczNHM4cG41OHEwOW8wbzlxc3I2OHBvMjM4NTQzMjY3MQ==">The Accra Metropolitan Assembly (AMA) has presented citations of honour to four entities as part of...</a></p>
+                            <!-- <h5 title="Mon, 20th Jan 2020   4:02 pm" ><i class="fas fa-clock"></i> 20.Jan.2020 </h5> -->
+                        </div>
+                    </td>
+                </tr>
+            </table>
+        </div><!-- End .ama-this-month-box -->
+            <div class="ama-this-month-box">
+            <table class="table">
+                <tr>
+                    <td>
+                        <div class="img-wrap">
+                            <a href="news-details.php?n=cHExMzU5bzg0cTM2cjA5czVvMHBxcXAzbnAzOTE0b245OHI4MTluMg==">
+                                <img src="ama-dash/_/components/php/articles-images/news/thumbs/phpHIjdoY_thb.jpg" class="img-fluid img-round" alt="">
+                            </a>
+                        </div>
+                    </td>
+                    <td>
+                        <div class="text-wrap">
+                            <h3><a href="news-details.php?n=cHExMzU5bzg0cTM2cjA5czVvMHBxcXAzbnAzOTE0b245OHI4MTluMg==">Accra Mayor visits Daycare Centre for kids of 'Kayayee'</a></h3>
+                            <h5 title="Mon, 20th Jan 2020   3:56 pm" ><i class="fas fa-clock"></i> 20.Jan.2020 </h5>
+                        </div>
+                    </td>
+                </tr>
+                
+                <tr>
+                     <td colspan="2">
+                        <div class="text-wrap">
+                            <p class=""><a href="news-details.php?n=cHExMzU5bzg0cTM2cjA5czVvMHBxcXAzbnAzOTE0b245OHI4MTluMg==">The Mayor of Accra, Mohammed Adjei Sowah on Friday paid a working visit to Miishe Daycare Centre located at...</a></p>
+                            <!-- <h5 title="Mon, 20th Jan 2020   3:56 pm" ><i class="fas fa-clock"></i> 20.Jan.2020 </h5> -->
+                        </div>
+                    </td>
+                </tr>
+            </table>
+        </div><!-- End .ama-this-month-box -->
+    
+    <hr>
+    <a href="news-page.php" class="btn btn-primary">Find More</a>
+</div><!-- End .ama-this-month-wrap -->              </div>
+              <div class="col-md-7 ama-gallery d-none d-md-block">
+                    <div class="ama-gallery-wrap clearfix">
+    <h2>Gallery</h2>
+    <section class="gallery-wrap">
+        <div id="gallery" style="display:none;">
+            <img class="img-fluid" alt="" src="img/gallery/2/1.jpg" data-image="img/gallery/2/1.jpg" data-description="">
+            <img class="img-fluid" alt="" src="img/gallery/2/2.jpg" data-image="img/gallery/2/2.jpg" data-description="">
+            <img class="img-fluid" alt="" src="img/gallery/2/3.jpg" data-image="img/gallery/2/3.jpg" data-description="">
+            <img class="img-fluid" alt="" src="img/gallery/2/4.jpg" data-image="img/gallery/2/4.jpg" data-description="">
+            <img class="img-fluid" alt="" src="img/gallery/2/5.jpg" data-image="img/gallery/2/5.jpg" data-description="">
+            <img class="img-fluid" alt="" src="img/gallery/2/6.jpg" data-image="img/gallery/2/6.jpg" data-description="">
+            <img class="img-fluid" alt="" src="img/gallery/2/7.jpg" data-image="img/gallery/2/7.jpg" data-description="">
+            <img class="img-fluid" alt="" src="img/gallery/2/8.jpg" data-image="img/gallery/2/8.jpg" data-description="">
+            <img class="img-fluid" alt="" src="img/gallery/2/10.jpg" data-image="img/gallery/2/10.jpg" data-description="">
+        </div>
+        <div class="gallery-desc">
+            <p>AMA marks ‘My First Day at School’</p>   
+        </div>
+    </section> <!-- End .gallery-wrap -->
+    <hr>
+    <!-- <a href="#" class="btn btn-primary float-right">View All</a> -->
+</div>   
+              </div>
+        </div><!-- End .row -->
+    </div><!-- End .container -->
+</section><!-- End .whats-news -->        <!-- End of What's New Area -->
+
+        <!-- Mayor's Vision Area -->
+            <section class="mayor-vision-area">
+    <!-- <div class="parallax-window" 
+        data-parallax="scroll" 
+        data-image-src="img/mayor-vision/mayor-bg-color.jpg" 
+        data-z-index="0" 
+        data-speed="0.2"
+        data-bleed="50"
+        data-position="0 5vh"> -->
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-6 mayor-img d-block d-sm-none">
+                    <div class="mayor-img-wrap">
+                        <img src="img/mayor-vision/mayor.png" class="img-fluid" alt="">
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-sm-6 col-12 mayor-vision d-flex align-items-center">
+                    <div class="row d-flex justify-content-end">
+                        <div class="col-md-9 mayor-vision-wrapper">
+                            <div class=" mayor-vision-wrap">
+                                <blockquote >
+                                    <p>A smart, safe, sustainable and resilient city. </p>
+                                    <div class="name-designation ">
+                                        <h3 class="">Hon. Mohammed Adjei Sowah</h3>
+                                        <h5 class="">Mayor - The City of Accra</h5>   
+                                    </div>
+                                </blockquote>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-sm-6 col-12 mayor-img d-sm-block d-none">
+                    <div class="mayor-img-wrap">
+                        <img src="img/mayor-vision/mayor.png" class="img-fluid" alt="">
+                    </div>
+                </div>
+
+            </div> <!-- End .row -->   
+        </div><!-- End .container -->
+    </div>
+</section><!-- End .mayor-vision-area -->
+        <!-- End of  Mayor's Vision Area -->
+
+        <!-- Accra In Focus Area -->
+            <section class="accra-in-focus-area">
+	<div class="container-fluid">
+		<div class="row d-flex justify-content-center">
+			<div class="col-md-10"><h2> Accra In Focus </h2></div>
+			
+			<div class="col-lg-11  accra-infocus">
+				
+					<div class=" owl-infocus owl-carousel owl-theme">
+
+							<div class="infocus-box ">
+								<div class="row">
+									<div class="col-md-12 col-lg-8 img-wrapper">
+										<div class="infocus-img-wrap">
+											<img src="img/tourism/t7.jpg" alt="">
+										</div>
+									</div>								
+									<div class="col-md-12 col-lg-4 text-wrapper d-flex align-content-stretch ">
+										<div class="infocus-text " >
+											<h1>The Business and Retail Centre of Accra, Octagon</h1>
+											<div class="d-none d-xl-block infocus-text-wrap">
+												<p>The octagon is a business and retail center in the heart of Accra, the capital of Ghana. 
+													The building complex offers ca. 75,000m2 usable area for luxury offices and retail inclusively a five star hotel.
+													
+
+												</p>
+												<p>It was opened in 2013 and located at Tudu, a suburb of Accra, an area closed to the Independence Avenue and the Barnes Road, north of the Kinbu Gardens.</p>
+											</div>
+											 
+												<h5><i class="fas fa-map-marker-alt"></i> 
+													<span>
+													Barnes Road, north of the Kinbu Gardens
+													</span>		  
+												</h5>
+											<!-- <span>Digital Address: GA-465 314 </span> --> 
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="infocus-box ">
+								<div class="row">
+									<div class="col-md-12 col-lg-8 img-wrapper">
+										<div class="infocus-img-wrap">
+											<img src="img/tourism/t6.jpg" alt="">
+										</div>
+									</div>								
+									<div class="col-md-12 col-lg-4 text-wrapper d-flex align-content-stretch ">
+										<div class="infocus-text " >
+											<h1>The Brazil House; Cradle of The Tabon People</h1>
+											<div class="d-none d-xl-block infocus-text-wrap">
+												<p>The Brazil house is the most expressive material symbol of importance to the Tabons.it is located on the street 
+													called Brazil Lane, in the center of the capital city also known as Ga Mashie.   
+												</p>
+												<p>The Tabons are the only representative group of the Afro-Brazilians returnees which are known in Ghana. 
+													The community is known as the Tabom community whilst the people are referred to as the Tabons.</p>
+											</div>
+											 
+												<h5><i class="fas fa-map-marker-alt"></i> 
+													<span>
+														Brazil Lane, in the centre of Accra also known as Ga Mashie.
+													</span>		  
+												</h5>
+											<!-- <span>Digital Address: GA-465 314 </span> --> 
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="infocus-box ">
+								<div class="row">
+									<div class="col-md-12 col-lg-8 img-wrapper">
+										<div class="infocus-img-wrap">
+											<img src="img/tourism/t5.jpg" alt="">
+										</div>
+									</div>								
+									<div class="col-md-12 col-lg-4 text-wrapper d-flex align-content-stretch ">
+										<div class="infocus-text " >
+											<h1>Graffiti on Walls</h1>
+											<div class="d-none d-xl-block infocus-text-wrap">
+												<p>Some art graffiti scene around the streets of Accra includes the 
+													Kinbu Senior High School wall and some walls along the high-street Jamestown area.  
+												</p>
+												<!-- <p>It is a nice park to relax whilst learning about the history of Ghana.</p> -->
+											</div>
+											 
+												<h5><i class="fas fa-map-marker-alt"></i> 
+													<span>
+														Kinbu Senior High School wall and some walls along the high-street Jamestown area.
+													</span>		  
+												</h5>
+											<!-- <span>Digital Address: GA-465 314 </span> --> 
+										</div>
+									</div>
+								</div>
+							</div>
+						
+							<div class="infocus-box ">
+								<div class="row">
+									<div class="col-md-12 col-lg-8 img-wrapper">
+										<div class="infocus-img-wrap">
+											<img src="img/tourism/t4.jpg" alt="">
+										</div>
+									</div>								
+									<div class="col-md-12 col-lg-4 text-wrapper d-flex align-content-stretch ">
+										<div class="infocus-text " >
+											<h1>The Kwame Nkrumah Mausoleum</h1>
+											<div class="d-none d-xl-block infocus-text-wrap">
+												<p>Kwame Nkrumah Mausoleum, also known as the Kwame Nkrumah Memorial Park (KNMP) 
+													is the last resting place of the first President of Ghana, Osagyefo Dr. Kwame Nkrumah. 
+												</p>
+												<p>It is a nice park to relax whilst learning about the history of Ghana.</p>
+											</div>
+											 
+												<h5><i class="fas fa-map-marker-alt"></i> 
+													<span>
+														Directly opposite the Commission for Human Rights and Administrative Justice (CHRAJ)
+													</span>		  
+												</h5>
+											<!-- <span>Digital Address: GA-465 314 </span> --> 
+										</div>
+									</div>
+								</div>
+							</div>
+						
+							<div class="infocus-box ">
+								<div class="row">
+									<div class="col-md-12 col-lg-8 img-wapper">
+										<div class="infocus-img-wrap">
+											<img src="img/tourism/t1.jpg" alt="">
+										</div>
+									</div>								
+									<div class="col-md-12 col-lg-4 text-wrapper d-flex align-content-stretch ">
+										<div class="infocus-text" >
+											<h1>Jamestown\Usshertown</h1>
+											<div class="d-none d-xl-block infocus-text-wrap">
+												<p>Jamestown originated as a community that emerged around the 17th-century British James Fort merging with Accra as the city grew. 
+												</p>
+												<p>For a great view of the city and the busy and colorful fishing harbor, climb to the top of the whitewashed lighthouse.</p>	
+											</div>
+											 
+												<h5><i class="fas fa-map-marker-alt"></i> 
+													<span>Directly east of the Korle Lagoon</span>	
+												</h5>
+											<!-- <span>Digital Address: GA-465 314 </span>  -->
+										</div>
+									</div>
+								</div>
+							</div>
+						
+							<!-- <div class="infocus-box d-flex flex-row">
+								<div class="infocus-img-wrap">
+									<img src="img/tourism/t3.jpg" alt="">
+								</div>
+								<div class="infocus-text" >
+									<h1>Fusce ultricies, orci ac feugiat suscipit</h1>
+									<p>Integer quis urna. Ut ante enim, dapibus malesuada, fringilla eu,
+										 condimentum quis, tellus. Aenean porttitor eros vel dolor. Donec convallis 
+										 pede venenatis nibh. Duis quam. Nam eget lacus. 
+									</p>
+									<i class="fas fa-map-marker-alt"></i> <h5>Location:  convallis pede venenatis nibh 		 
+									</h5><span>Digital Address: GA-465 314</span>
+								</div>
+							</div> -->
+							<div class="infocus-box">
+								<div class="row">
+									<div class="col-lg-8 img-wrapper">
+										<div class="infocus-img-wrap">
+											<img src="img/tourism/t2.jpg" alt="">
+										</div>
+									</div>								
+									<div class="col-lg-4 text-wrapper d-flex align-content-stretch ">
+										<div class="infocus-text " >
+											<h1>The National Theatre</h1>
+											<div class="d-none d-xl-block infocus-text-wrap">
+												<p>The National Theater in Accra was built and offered as a gift to Ghana in 1990 by 
+												the Chinese and opened in 1992 
+												</p>
+												<p>
+													The design of the structure was inspired by the fiery passion of African arts: 
+													abstract mosaic murals; local dances with crisp rhythms and powerful movements; 
+													and sculptures evoking power and feeling.
+												</p>
+											</div>
+											 
+											<h5 class="align-self-end"><i class="fas fa-map-marker-alt"></i> <span>South Liberia Road, Accra.</span> </h5>
+											<!-- <span>Digital Address: GA-465 314 </span>  -->
+										</div>
+									</div>
+								</div>
+							</div>
+					</div>
+			</div>
+			<!-- <div >
+				dsfadfsdf dsf dsafsdfdsafdsf
+			</div> -->
+		
+		</div> <!-- End .row -->
+	</div><!-- End .container -->
+</section><!-- End .accra-in-focus-area-->        <!-- End of Accra In Focus Area -->
+
+        <!-- Event In Accra Area -->
+        <section class="events-in-accra-area">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-3 events-area-desc">
+                <div class="events-area-desc-wrap">
+                    <h2>Events In Accra</h2>
+                    <p > So many interesting events are organised in the city on a daily basis. 
+                        Here are a few of them endorsed by the Assembly
+                    </p>
+                    <!-- <a href="#" class="btn btn-primary d-none d-md-block">Find more events</a> -->
+                </div>
+            </div><!-- End .events-area-desc -->
+
+            
+
+            <div class="col-md-3 col-sm-6 event-box">
+                <div class="event-box-wrap">
+                        <figure class="imghvr-slide-down">
+                            <div class="event-img">
+                                <img src="img/accra-events/won-ya.jpg" alt="" class="img-fluid">
+                                <div class="event-text">
+                                    <h4>Won-ya Avenor Album Release Concert</h4>
+                                    <p><span><i class="far fa-calendar-alt"></i> Date:</span> November 2, 2019 | 9pm </p>
+                                    <h5><span><i class="fas fa-map-marker-alt"></i> Venue:</span> +233 Jazz Bar & Grill, Accra</h5>
+                                </div>
+                            </div>
+                            <figcaption>
+                                <h3>Won-ya Avenor Album Release Concert</h3>
+                                <strong><p>Shikome <br> Nii Tlema II  </p></strong>
+                                <p>
+                                    Feat: Gyedu Ambulley, Dela Botri, Amandzeba,<br> 
+                                    Opoku Mensah, Bright Osei, Akablay
+                                </p>
+                                <em><strong>Rate: Gh&cent;50</strong> <br> For more enquiries call: 055 986 5767</em>
+                            
+                                <h5><span><i class="far fa-calendar-alt"></i> Date:</span>  November 2, 2019 | 9pm</h5>
+                                <h5><span><i class="fas fa-map-marker-alt"></i> Venue:</span> +233 Jazz Bar & Grill, Accra</h5>
+                                <!-- <a href="#">Find Out More</a> -->
+                            
+                            </figcaption>        
+                    </div>
+                </div><!-- End .event-box -->
+            
+            <div class="col-md-3 col-sm-6 event-box">
+                <div class="event-box-wrap">
+                    <figure class="imghvr-slide-down">
+                        <div class="event-img">
+                            <img src="img/accra-events/zero-borla.jpg" alt="" class="img-fluid">
+                            <div class="event-text">
+                                <h4>Zero borla Fashion & Music</h4>
+                                <p><span><i class="far fa-calendar-alt"></i> Date:</span> September 28, 2019 | 6pm </p>
+                                <h5><span><i class="fas fa-map-marker-alt"></i> Venue:</span> Accra Sports Stadium</h5>
+                            </div>
+                        </div>
+                        <figcaption>
+                            <h3>Zero borla Fashion & Music</h3>
+                            <p>Awareness against plastic waste</p>
+                            <p>
+                                Feat: Stonebwoy, Efya, E.L., Joey B, Ambolley,<br>
+                                Kwan Pa, Jupiter, MzVee, Lady J, Tinny 
+                            </p>
+                            <em>Get your tickets: Dial *714*5*5# or <a href="https://ticketmiller.com" target="_blank"> ticketmiller.com </a>  </em>
+                            
+                            <h5><span><i class="far fa-calendar-alt"></i> Date:</span>  September 28, 2019 | 6pm</h5>
+                            <h5><span><i class="fas fa-map-marker-alt"></i> Venue:</span>Accra Sports Stadium</h5>
+                            <!-- <a href="#">Find Out More</a> -->
+                            
+                        </figcaption>        
+                </div>
+            </div><!-- End .event-box -->
+            <div class="col-md-3 col-sm-6 event-box">
+                <div class="event-box-wrap">
+                    <figure class="imghvr-slide-down">
+                        <div class="event-img">
+                            <img src="img/accra-events/bigman-wahala.jpg" alt="" class="img-fluid">
+                            <div class="event-text">
+                                <h4>Bigman Wahala</h4>
+                                <p><span><i class="far fa-calendar-alt"></i> Date:</span> September 20/21, 2019 | 6pm & 8pm</p> 
+                                <h5><span><i class="fas fa-map-marker-alt"></i> Venue:</span> Accra City Hall, Accra</h5>
+                            </div>
+                        </div>
+                        <figcaption>
+                            
+                            <h3>Bigman Wahala</h3>
+                            <p>A Daniel Adjokatcher Film</p>
+                            <p>BIGMAN WAHALA, <br>begin the coup!! </p>
+                            <em>Accra City Hall, Kinbu Garden, adjacent Octagon, Accra Central</em>
+                          
+                            <h5><span><i class="far fa-calendar-alt"></i> Date:</span>  September 20/21, 2019 | 6pm & 8pm</h5>
+                            <h5><span><i class="fas fa-map-marker-alt"></i> Venue:</span>Accra City Hall, Accra</h5>
+                            <!-- <a href="#">Find Out More</a> -->
+                            
+                        </figcaption>                    
+                    </figure>
+                </div>
+            </div><!-- End .event-box -->
+             
+
+            <!-- <div class="col-md-3 col-sm-6 event-box">
+                <div class="event-box-wrap">
+                    <figure class="imghvr-slide-down">
+                        <div class="event-img">
+                            <img src="img/accra-events/event-2.jpg" alt="" class="img-fluid">
+                            <div class="event-text">
+                                <h4> Ghana Carnival</h4>
+                                <p> June 30 - July 2</p>
+                                <h5>James Town</h5>
+                            </div>
+                        </div>
+                        <figcaption>
+                            
+                            <h3 >Ghana Carnival</h3>
+                            <p >
+                                Lorem ipsum dolor sit amet, consectetuer adipiscing elit. 
+                                Nullam enim leo, egestas id, condimentum at, laoreet mattis, massa
+                            </p>
+                            <h5><span><i class="far fa-calendar-alt"></i> Date:</span>     June 30 - July 2</h5>
+                            <h5><span><i class="fas fa-map-marker"></i> Venue:</span>  James Town</h5>
+                            <a href="#">Find Out More</a>
+                            
+                        </figcaption>        
+                </div>
+            </div> --><!-- End .event-box -->
+
+            <!-- <div class="col-md-3 col-sm-6 event-box">
+                <div class="event-box-wrap">
+                    <figure class="imghvr-slide-down">
+                        <div class="event-img">
+                            <img src="img/accra-events/event-1.jpg" alt="" class="img-fluid">
+                            <div class="event-text">
+                                <h4> Ghana Carnival</h4>
+                                <p> June 30 - July 2</p>
+                                <h5>James Town</h5>
+                            </div>
+                        </div>
+                        <figcaption>
+                            
+                            <h3 >Ghana Carnival</h3>
+                            <p >
+                                Lorem ipsum dolor sit amet, consectetuer adipiscing elit. 
+                                Nullam enim leo, egestas id, condimentum at, laoreet mattis, massa
+                            </p>
+                            <h5><span><i class="far fa-calendar-alt"></i> Date:</span>     June 30 - July 2</h5>
+                            <h5><span><i class="fas fa-map-marker"></i> Venue:</span>  James Town</h5>
+                            <a href="#">Find Out More</a>
+                            
+                        </figcaption>        
+                </div>
+            </div> --><!-- End .event-box -->
+
+           <!-- <div class="col-md-3 col-sm-6 event-box">
+                <div class="event-box-wrap">
+                    <figure class="imghvr-slide-down">
+                        <div class="event-img">
+                            <img src="img/accra-events/event-2.jpg" alt="" class="img-fluid">
+                            <div class="event-text">
+                                <h4> Ghana Carnival</h4>
+                                <p> June 30 - July 2</p>
+                                <h5>James Town</h5>
+                            </div>
+                        </div>
+                        <figcaption>
+                            
+                            <h3 >Ghana Carnival</h3>
+                            <p >
+                                Lorem ipsum dolor sit amet, consectetuer adipiscing elit. 
+                                Nullam enim leo, egestas id, condimentum at, laoreet mattis, massa
+                            </p>
+                            <h5><span><i class="far fa-calendar-alt"></i> Date:</span>     June 30 - July 2</h5>
+                            <h5><span><i class="fas fa-map-marker"></i> Venue:</span>  James Town</h5>
+                            <a href="#">Find Out More</a>
+                        </figcaption>        
+                </div>
+            </div> --><!-- End .event-box -->
+
+            <!-- <div class="col-md-3 col-sm-6 event-box">
+                <div class="event-box-wrap">
+                    <figure class="imghvr-slide-down">
+                        <div class="event-img">
+                            <img src="img/accra-events/event-4.jpg" alt="" class="img-fluid">
+                            <div class="event-text">
+                                <h4> Ghana Carnival</h4>
+                                <p> June 30 - July 2</p>
+                                <h5>James Town</h5>
+                            </div>
+                        </div>
+                        <figcaption>
+                            
+                            <h3 >Ghana Carnival</h3>
+                            <p >
+                                Lorem ipsum dolor sit amet, consectetuer adipiscing elit. 
+                                Nullam enim leo, egestas id, condimentum at, laoreet mattis, massa
+                            </p>
+                            <h5><span><i class="far fa-calendar-alt"></i> Date:</span>     June 30 - July 2</h5>
+                            <h5><span><i class="fas fa-map-marker"></i> Venue:</span>  James Town</h5>
+                            <a href="#">Find Out More</a> 
+                        </figcaption>
+                </div>
+            </div> --><!-- End .event-box -->
+
+            <!-- <a href="#" class="btn btn-primary btn-block mobile-btn d-block d-md-none">Find more events</a> -->
+
+        </div><!-- End .row -->
+    </div><!-- End .container-fluid -->
+</section><!-- End .events-in-accra-area -->        <!-- End of Events In Accra Area -->
+
+        <!-- Social Media Feed Area -->
+            <section class="social-media-feed-area">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12 d-lg-none d-block">
+                <h4>Follow Us on </h4>
+            </div>
+            <div id="fb-bg" class="col-6 col-sm-2 col-md-2 col-lg-3 social-media-feed ">
+                <h2 class="d-lg-block d-none" >Facebook</h2>
+                <div class="facebook-wrapper d-none d-lg-block">
+                    
+                    <div class="fb-page" data-href="https://www.facebook.com/AccraMetropolis/"
+                        data-tabs="timeline" data-small-header="false" 
+                        data-adapt-container-width="true" 
+                        data-hide-cover="false" 
+                        data-show-facepile="true">
+                        <blockquote cite="https://www.facebook.com/AccraMetropolis/" class="fb-xfbml-parse-ignore">
+                        <a href="https://www.facebook.com/AccraMetropolis/">Accra Metropolitan Assembly</a></blockquote>
+                    </div>
+                    
+                </div>
+                <div class="icon-svg d-lg-none d-block">
+                    <a href="https://www.facebook.com/AccraMetropolis/" target="_blank">
+                        <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+    viewBox="0 0 112.196 112.196" style="enable-background:new 0 0 112.196 112.196;" xml:space="preserve">
+<g>
+    <circle style="fill:#3B5998;" cx="56.098" cy="56.098" r="56.098"/>
+    <path style="fill:#FFFFFF;" d="M70.201,58.294h-10.01v36.672H45.025V58.294h-7.213V45.406h7.213v-8.34
+        c0-5.964,2.833-15.303,15.301-15.303L71.56,21.81v12.51h-8.151c-1.337,0-3.217,0.668-3.217,3.513v7.585h11.334L70.201,58.294z"/>
+</g>
+</svg> 
+                    </a>
+                </div>
+            </div> <!-- End .social-media-feed -->
+            <div id="tw-bg" class="col-6 col-sm-2 col-md-2 col-lg-3 social-media-feed">
+                <h2 class="d-lg-block d-none">Twitter</h2>
+                <div class="twitter-wrapper clearfix d-none d-lg-block">
+                    <a class="twitter-timeline"  height="500" href="https://twitter.com/AccraMetropolis">A Twitter List by Accra Metropolitan Assembly</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                </div>
+                <div class="icon-svg d-lg-none d-block">
+                    <a href="https://twitter.com/AccraMetropolis" target="_blank">
+                        <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+    viewBox="0 0 112.197 112.197" style="enable-background:new 0 0 112.197 112.197;" xml:space="preserve">
+<g>
+    <circle style="fill:#55ACEE;" cx="56.099" cy="56.098" r="56.098"/>
+    <g>
+        <path style="fill:#F1F2F2;" d="M90.461,40.316c-2.404,1.066-4.99,1.787-7.702,2.109c2.769-1.659,4.894-4.284,5.897-7.417
+            c-2.591,1.537-5.462,2.652-8.515,3.253c-2.446-2.605-5.931-4.233-9.79-4.233c-7.404,0-13.409,6.005-13.409,13.409
+            c0,1.051,0.119,2.074,0.349,3.056c-11.144-0.559-21.025-5.897-27.639-14.012c-1.154,1.98-1.816,4.285-1.816,6.742
+            c0,4.651,2.369,8.757,5.965,11.161c-2.197-0.069-4.266-0.672-6.073-1.679c-0.001,0.057-0.001,0.114-0.001,0.17
+            c0,6.497,4.624,11.916,10.757,13.147c-1.124,0.308-2.311,0.471-3.532,0.471c-0.866,0-1.705-0.083-2.523-0.239
+            c1.706,5.326,6.657,9.203,12.526,9.312c-4.59,3.597-10.371,5.74-16.655,5.74c-1.08,0-2.15-0.063-3.197-0.188
+            c5.931,3.806,12.981,6.025,20.553,6.025c24.664,0,38.152-20.432,38.152-38.153c0-0.581-0.013-1.16-0.039-1.734
+            C86.391,45.366,88.664,43.005,90.461,40.316L90.461,40.316z"/>
+    </g>
+</g>
+</svg>
+                    </a>
+                </div>
+            </div> <!-- End .social-media-feed-->
+            <div id="yt-bg" class="col-12 col-sm-8 col-md-8 col-lg-6 social-media-feed">
+                <h2>AMA TV</h2>
+                <div class="youtube-wrapper">
+                    
+                    <!-- <section class="videos-area">
+                        <div class="container-fluid">
+                            <div class="row">-->
+                                <div class="first-video">
+                                    <div class="current-video">
+                                        <div class="current-video-bg">
+                                            <div class="intrinsic-container intrinsic-container-16x9">
+                                                <!-- <div class="plyr-fiki plyr__video-embed" id="player"> -->
+                                                    <!-- <iframe id="ytplayer" type="text/html"
+                                                        src="https://www.youtube.com/embed/M7lc1UVf-VE" frameborder="0">
+                                                    </iframe> -->
+                                                <!-- </div> -->
+                                            </div>
+                                        </div> <!-- End .current-video-bg-->
+                                        
+                                        <div class="video-title-desc-content">
+                                            <div class="video-title-desc"></div>
+                                        </div>
+                                    </div>		
+                                </div>
+                                <div class="theother-videos ">
+                                    <div class="other-videos">
+                                        <section id="videos" class="clearfix" ></section>	
+                                    </div>
+                                    <!-- <div class=" "><a href="#" class="btn btn-primary float-right">More Videos</a></div> -->
+                                </div>
+                                
+                            <!-- </div> --> <!-- End .row -->
+                       <!--  </div> -->
+                    <!-- </section> --><!-- End .thevideos-->
+                </div><!-- End .youtube-wrapper-->
+                <!-- <div class="icon-svg d-sm-none d-block">
+                    Youtube 
+                </div> -->
+            </div><!-- End .social-media-feed-->
+        </div> <!-- End .row -->
+    </div> <!-- End .container -->
+</section> <!-- End .social-media-feed-area -->        <!-- End of Social Media Feed Area -->
+
+        <!-- Sister City Partnerships -->
+             <section class="sis-city-partnerships">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-5 text-content">
+                <div class="text-content-wrap">
+                    <h2>Sister City Partnerships</h2>
+                    <p> The Assembly partners other Sister Cities, providing us the opportunity of supporting each other with resources and ideas to help ensure the effective implementation of projects.
+                        This will help us achieve sustainable development and also impact positively, the lives of people in the society. 
+                    </p>
+                    <a href="sister-cities.php" class="btn btn-success btn-center btn-sm d-none d-md-block">Find All Partnerships</a>
+                </div>
+            </div><!-- End .text-content -->
+            <div class="col-md-7 sis-city-partners d-inline-flex justify-content-center align-items-center">
+                <div class="sis-city-partners-wrap">
+                    <div class="sis-city-box">
+                        <a href="https://www.capetown.gov.za/" target="_blank">
+                            <img src="img/sis-city/cape-town.png" class="img-fluid" alt="Cape Town logo">
+                        </a>
+                    </div>
+                    <div class="sis-city-box">
+                        <a href="https://www.cityofchicago.org/city/en.html" target="_blank">
+                            <img src="img/sis-city/chicago1.png" class="img-fluid" alt="Chicago logo">
+                        </a>
+                    </div>
+                    <div class="sis-city-box">
+                        <a href="http://www.cheyennecity.org/" target="_blank">
+                            <img src="img/sis-city/cheyenne.png" class="img-fluid" alt="cheyenne logo">
+                        </a>
+                    </div>
+
+                    <div class="sis-city-box">
+                        <a href="https://www.akronohio.gov" target="_blank">
+                            <img src="img/sis-city/city-of-akron.png" class="img-fluid" alt="City of Akron">
+                        </a>
+                    </div>
+                    <a href="#" class="btn btn-success btn-block d-block d-md-none mobile-scp-btn">Find All Partnerships</a>
+                </div>
+            </div><!-- End .sis-city-partners -->
+
+            
+            
+        </div><!-- End .row -->
+    </div><!-- End .container -->
+</section> <!-- End .ssis-city-partnerships -->        <!-- End of Sister City Partnerships -->
+
+        <!-- International Partners  -->
+        <section class="international-partners">
+    <div class="container-fluid">
+        <div class="row d-flex justify-content-center align-items-center">
+            <div class="col-md-4 text-content">
+                <div class="text-content-wrap">
+                    <h3>International Organisational Partnerships</h3>
+                    <p>We are also in partnership with various International Organizations to enable us achieve our vision,
+                       while we create new business opportunities, build strong international relationships and networks as well as soliciting for grants in aid of developmental projects to ensure the smooth,
+                       effective and efficient management of the Assembly.
+                    </p>
+                    <a href="international-partners.php" class="btn btn-success btn-center btn-sm d-none d-md-block">Find All Partners</a>
+                </div>
+            </div>
+
+            <div class="col-md-5 international-partners-logo">
+                <div class="international-partners-logo-wrap">
+                    <div class="partner-box">
+                        <a href="https://www.bloomberg.org/" target="_blank">
+                            <img src="img/int-partners/bloomberg.png" class="img-fluid" alt="Bloomberg Philanthrophies" title="Bloomberg Philanthropies">
+                        </a>
+                    </div>
+                    <div class="partner-box">
+                       <a href="http://www.100resilientcities.org/" target="_blank" >
+                            <img src="img/int-partners/100resilient.png" class="img-fluid" alt="100 Resilient Cities" title="100 Resilient Cities">
+                       </a>
+                    </div>
+
+                     <div class="partner-box">
+                        <a href="https://www.c40.org/" target="_blank">
+                            <img src="img/int-partners/c40.png" class="img-fluid" alt="C40 Cities" title="C40 Cities" >
+                        </a>
+                    </div>
+
+                    <div class="partner-box">
+                        <a href="http://we-gov.org/" target="_blank" >
+                            <img src="img/int-partners/wego.png" class="img-fluid" alt="WeGo" title="WeGo" >
+                        </a>
+                    </div>
+
+                    <div class="partner-box">
+                        <a href="https://who.int/" target="_blank" >
+                            <img src="img/int-partners/who.png" class="img-fluid" alt="World Health Organisation" title="World Health Organisation">
+                        </a>
+                    </div>
+
+                    <div class="partner-box">
+                        <a href="https://europa.eu/" target="_blank">
+                            <img src="img/int-partners/eu.png" class="img-fluid" alt="European Union" title="European Union">
+                        </a>
+                    </div>
+
+                    <a href="international-partners.php" class="btn btn-success btn-block d-block d-md-none mobile-scp-btn">Find All Partners</a>
+
+                </div>
+            </div>
+
+
+        </div><!-- End .row -->
+    </div><!-- End .containers -->
+</section> <!-- End .international-partners -->        <!-- End of International Partners  -->
+
+        <!-- Footer Area -->
+            <section class="footer-area">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-3 monochrome-logo">
+                <div class="monochrome-logo-wrap">
+                    <a href="#"><img src="img/ama-monochrome-logo.png" alt=""></a>
+                </div>
+            </div>
+            <div class="col-md-8 aboutus-text d-none d-md-block">
+                <div class="aboutus-text-wrap">
+                    <h2>About the Assembly</h2>
+                    <p>
+                        The Accra Metropolitan Assembly (AMA) is one of the Two Hundred and Fifty-Four (254) Metropolitan, 
+                        Municipal and District Assemblies (MMDAs) in Ghana and among the Twenty-Six (26) MMDAs in the...<a href="theassembly.php" class="btn btn-link">Read More...</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12 col-xl-12 quick-links">
+                <div class="d-lg-none quick-wrapper quick-links-wrap">
+                    <h3>Quick links</h3>
+                    <p><a href="index.php">Home</a></p>
+                    <p><a href="sub-metros.php">Sub Metros</a></p>
+                    <p><a href="departments.php">Departments</a></p>
+                    <p><a href="investment-opportunities.php">Projects</a></p>
+                    <p><a href="environmental-health-services.php">Services</a></p>
+                    <p><a href="documents-centre.php">Document Centre</a></p>
+                    <!-- <p><a href="#">Other relevant portals</a></p> -->
+                </div>
+                <div class="f-hidden quick-links-wrap d-flex flex-row">
+                    <ul>
+                        <li><a href="https://ama.gov.gh">Home</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="sub-metros.php">Sub Metros</a></li>
+                                                    <li><a href="sub-metro-details.php?s=Mg==">Ablekuma South</a></li>
+                                                    <li><a href="sub-metro-details.php?s=MQ==">Ashiedu Keteke</a></li>
+                                                    <li><a href="sub-metro-details.php?s=NQ==">Okaikoi South</a></li>
+                                                <!-- <li><a href="#">Development Planning</a></li>
+                        <li><a href="#">Physical Planning</a></li>
+                        <li><a href="#">Works</a></li>
+                        <li><a href="#">Others...</a></li> -->
+                    </ul>
+                    <ul>
+                        <li><a href="departments.php">Departments</a></li>
+                                                    <li><a href="department-details?d=Mg==">Central Administration</a></li>
+                                                    <li><a href="department-details?d=OA==">Physical Planning</a></li>
+                                                    <li><a href="department-details?d=Mw==">Works Department</a></li>
+                                                    <li><a href="department-details?d=MTk=">Waste Management</a></li>
+                                                    <li><a href="department-details?d=NQ==">Education, Youth & Sports</a></li>
+                                                <!-- <li><a href="#">Development Planning</a></li>
+                        <li><a href="#">Physical Planning</a></li>
+                        <li><a href="#">Works</a></li> -->
+                        <li><a href="departments.php">Others...</a></li>
+                    </ul>
+
+                    <ul>
+                        <li><a href="#">Services</a></li>
+                       
+                       <!--  <li><a href="#">Liquid Waste Management</a></li>
+                        <li><a href="#">Solid Waste Management</a></li> -->
+                        <li><a href="environmental-health-services.php">Environmental Health Services</a></li> 
+                        <li><a href="waste-management-services.php">Waste Management Services</a></li>
+                        <!-- <li><a href="#">Health Services</a></li> -->
+                    </ul>
+
+                    <ul>
+                        <li><a href="#">Projects</a></li>
+                        <!-- <li><a href="#">PPP</a></li>
+                        <li><a href="#">Infrastructural Projects</a></li> -->
+                        <li><a href="investment-opportunities.php">Investments Opportunities</a></li>
+                        <!-- <li><a href="#">Project 4</a></li> -->
+                    </ul>
+
+                    <ul>
+                        <li><a href="#"></a></li>
+                        <li><a href="#">Reports</a></li>
+                        <li><a href="#">Press Statements</a></li>
+                        <li><a href="#">Announcements</a></li>
+                        <li><a href="#">Honours</a></li>
+                    </ul>
+
+                    <!-- <ul>
+                        <li><a href="#">Documents Centre</a></li>
+                        <li><a href="#">Reports</a></li>
+                        <li><a href="#">Press Statements</a></li>
+                        <li><a href="#">Announcements</a></li>
+                        <li><a href="#">Honours</a></li>
+                    </ul> -->
+
+                    <ul>
+                        <li><a href="#">Other Relevant Portals</a></li>
+                        <li><a href="http://www.ghana.gov.gh/" target="_blank">Government of Ghana</a></li>
+                        <li><a href="http://www.mlgrd.gov.gh/" target="_blank">Local Government Ministry</a></li>
+                        <li><a href="http://www.gra.gov.gh/" target="_blank">Ghana Revenue Authority</a></li>
+                        <li><a href="https://www.epay.gov.gh/" target="_blank">E-Payments</a></li>
+                        <li><a href="https://nita.gov.gh/">NITA</a></li>
+                        <li><a href="http://www.gcnet.com.gh/" target="_blank">GCNet</a></li>
+                        
+                    </ul>
+
+                     <!-- <ul>
+                        <li><a href="#">Gallery</a></li>
+                    </ul>
+
+                    <ul>
+                        <li><a href="#">Membership</a></li>
+                        <li><a href="#">Sign up</a></li>
+                        <li><a href="#">Login</a></li>
+                    </ul> -->
+                </div><!-- End .quick-links-wrap -->
+            </div><!-- End .quick-links -->
+            <div class="col-md-9 col-lg-9 col-xl-9 contact-details">
+                <div class="contact-details-wrap">
+                    <!-- <h2>Contact Us</h2> -->
+                    <p><a href="tel:+233 302 665 951"><i class="fas fa-phone"></i> <span>+233 (0) 302 665 951</span></a></p> 
+                    <p><a href="mailto:info@ama.gov.gh"><i class="fas fa-at"></i> <span>info@ama.gov.gh</span></a></p>
+                    <p><i class="fas fa-map-marker-alt"></i> <span>GA-143-7447</span></p>
+                    <p><i class="fas fa-envelope"></i> <span>P. O. Box GP 385, Accra Central, Accra, Ghana</span></p>
+                </div>
+            </div><!-- End .contact-details -->
+            <div class="col-md-3 col-lg-3 social-media">
+               <div class="social-media-wrap d-flex justify-content-center">
+                   <!-- Go to www.addthis.com/dashboard to customize your tools --> <div class="addthis_inline_follow_toolbox"></div> 
+               </div>
+               
+            </div><!-- End .social-media -->
+            <div class="col-12 ssl-seal">
+                <div class="ssl-seal-wrap">
+                    <span id="siteseal">
+                        <script async type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=tHFF4GATyUqjq53SQEDK3dYV0IJ2sl5FRWs3h91jdaDafrIXjmiBy8jeai50"></script>
+                    </span>
+                </div>
+            </div>
+            <div class="col-md-12 copyright-developer-signature">
+               <div class="copyright-developer-signature-wrap">
+                   <!-- <p>&copy;Copyrights 2020 Accra Metropolitan Assembly. All rights reserved</p>
+                   <p>Developed by <a href="#">Akorsetec</a>    </p> -->
+                   <p class="clearfix">&copy;Copyrights 2020 Accra Metropolitan Assembly. All rights reserved<span class="float-right developer">Developed by <a href="http://www.akorsetec.com" target="_blank">Akorsetec</a> </span></p>
+               </div>
+            </div><!-- End .copyright-developer-signature -->
+        </div><!-- End .row -->
+    </div><!-- End .container -->
+</section><!-- End .footer-area -->        <!-- End of Footer Area -->
+
+         <!--back to top-->
+         <a id="back-to-top" href="#" class="btn btn-success back-to-top" role="button" title="Click to return on the top page" data-toggle="tooltip" data-placement="left"><span class="fas fa-angle-up"></span></a>        <!--End back to top-->
+
+
+        <script src="_/js/vendor/modernizr-3.5.0.min.js"></script>
+        <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+        <script>window.jQuery || document.write('<script src="_/js/vendor/jquery-3.2.1.min.js"><\/script>')</script>
+        <!-- <script src="_/js/jquery-ui.min.js"></script> -->
+       
+        <!-- Bootstrap -->
+        <script src="_/js/popper.min.js"></script>
+        <script src="_/js/bootstrap.js"></script>
+        
+        <script src="_/js/plugins.js"></script>
+        <!-- /Bootstrap -->
+        <!-- <script defer src="https://use.fontawesome.com/releases/v5.0.9/js/all.js" integrity="sha384-8iPTk2s/jMVj81dnzb/iFR2sdA7u06vHJyyLlAd4snFpCl/SnyUjRrbdJsw1pGIl" crossorigin="anonymous"></script> -->
+        <script src="_/js/fontawesome-all.min.js"></script>
+        
+    
+       
+        <script src="_/js/jquery.sticky.js"></script>
+        <script src="_/js/parallax.min.js"></script>
+
+        
+        <script src="_/js/ug-theme-slider.js"></script>
+        <script src="_/js/main.js"></script>
+
+        <!-- Go to www.addthis.com/dashboard to customize your tools -->
+        <script type="text/javascript" async="async" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5afed7cc126e5aba"></script>
+
+
+        <!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->
+        <script>
+            window.ga=function(){ga.q.push(arguments)};ga.q=[];ga.l=+new Date;
+            ga('create','UA-XXXXX-Y','auto');ga('send','pageview')
+        </script>
+        <script src="https://www.google-analytics.com/analytics.js" async defer></script>
+    </body>
+</html>

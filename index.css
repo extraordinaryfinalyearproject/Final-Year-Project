@@ -1,0 +1,19 @@
+body{
+    background-image: url("images/accra.jfif");
+}
+.bag-light{
+    background-color: lawngreen;
+}
+.formdesign{
+    padding: 35px;
+}
+.btn{
+    background-color: lawngreen;
+}
+.butn-primary{
+    background-color: lawngreen;
+}
+h2{
+    color:white;
+    padding:5px;
+}
